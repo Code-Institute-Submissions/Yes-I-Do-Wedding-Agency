@@ -1,0 +1,245 @@
+/*===============MEDIA QUERY=============*/
+@media screen and (max-width: 1199px){
+    .we-do h4 {
+        margin-top: 40px;
+        margin-bottom: 20px;
+    }
+    .we-do h5 {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+}
+@media screen and (max-width: 991px) {
+    .social-media {
+        margin: 0 auto;
+    }
+    .nav-light {
+        background-color: var(--bg-color) !important;
+        position: relative;
+        top: 0;
+        padding: 10px 15px;
+    }
+    .nav-light .navbar-nav {
+        padding-bottom: 10px;
+    }
+    .nav-light .navbar-nav > .nav-item > .nav-link {
+        padding: .7rem 0;
+        color: var(--navbar-color);
+    }
+    .nav-light .navbar-nav > .nav-item > .nav-link:hover {
+        color: var(--brand-color);
+    }
+    .hero-text h1 {
+        padding-top: 0;
+        margin: 0;
+        font-size: 30px;
+        line-height: 1.2;
+        letter-spacing: 1px;   
+    }
+    .socket-tel {
+        text-align: center;
+    }
+    .socket-address {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .social-media {
+        padding-bottom: 20px;
+    }
+    .phone-num {
+        text-align: center;
+    }
+    .nav-light .navbar-nav > .nav-item > .nav-link {
+        border-bottom: 1px solid rgba(255,255,255, .2);
+    }
+    .lead-text {
+        padding-top: 20px;
+    }
+    .contact .info i {
+        font-size: 15px;
+        width: 25px;
+        height: 25px;
+    }
+    .contact .info h4 {
+        font-size: 16px;
+        padding: 0 0 0 40px;
+        color: var(--navbar-color);
+        opacity: .8;
+    }
+    
+    .contact .info p {
+        padding: 0 0 0 30px;
+        color: var(--navbar-color);
+        opacity: .8;
+    }
+    .contact .info .phone,
+    .contact .info .email,
+    .contact .info .address {
+        margin-top: 15px;
+    }
+    .signup-form h2 {
+        font-size: 20px;
+    }
+    .heading h1 {
+        margin-top: 20px;
+        font-size: 20px;
+    }
+    .text1 {
+        margin-top: 40px;
+        margin-bottom: 15px;
+    }
+    .text1,
+    .text2 {
+        font-size: 14px;
+        text-align: left;
+    }
+    .about-text h2 {
+        font-size: 20px;
+        margin-top: 30px;
+    }
+    .about-text h4 {
+        font-size: 13px;
+    }
+    .quote p:first-child {
+        font-size: 12px;
+        padding-top: 30px;
+        text-align: left;
+    }
+    .quote p:last-child {
+        font-size: 13px;
+    }
+    .we-do h4 {
+        font-size: 20px;
+        margin-top: 40px;
+    }
+    .we-do h5 {
+        font-size: 20px;
+    }
+    .we-do p {
+        color: var(--navbar-color);
+        opacity: .8;
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .about .about-descript p {
+        padding-right: 0;
+        margin: 0;
+        text-align: left;
+    }
+    .about .about-descript h2 {
+        text-align: center;
+    }
+    .about .about-right {
+        padding-top: 50px;
+    }
+    .about .about-right .about-right-img img {
+        width: 65%;
+        margin-left: 20%;
+    }
+    .what-we-do h2 {
+        font-family: var(--second-font);
+        font-size: 40px;
+        font-weight: lighter;
+        color: var(--brand-color);
+    }
+    .hero-text h1 {
+        font-size: 30px;
+        padding-top: 30px;
+        letter-spacing: 2px;
+    }
+    .hero-text p {
+        text-align: start;
+    }
+    .navbar-brand {
+        letter-spacing: 3px;
+        font-size: 30px;
+        line-height: 1.2;
+    }
+    .navbar-brand small {
+        font-size: 13px;
+    }   
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    .about .about-descript p {
+        padding-right: 20px;
+        text-align: center;
+    } 
+    .about .about-descript h2 {
+        text-align: center;
+        padding-right: 40px;
+   
+    }
+    .about .about-right .about-right-img img {
+       margin-left: 50px;
+       padding-top: 50px;
+       width: 75%;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .social-media {
+        padding: 0;
+        margin: 0;
+    }
+    .about .about-right {
+        padding-top: 20px;
+    }
+    .about .about-descript p {
+        padding-right: 0;
+        text-align: center;
+        margin: 0;
+    }
+    .about .about-descript h2{
+        text-align: center;
+    }
+    .about .about-right .about-right-img img {
+        padding-top: 40px;
+        width: 85%;
+        padding-left: 40px;
+    }
+    .contact .info i {
+        font-size: 15px;
+        float: left;
+        width: 30px;
+        height: 30px;
+        color: var(--navbar-color);
+        background: var(--brand-color);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 50%;
+        transition: all .3s ease-in-out;
+    }
+    
+    .contact .info h4 {
+        font-size: 16px;
+        padding: 0 0 0 50px;
+        color: var(--navbar-color);
+        opacity: .8;
+    }
+    
+    .contact .info p {
+        padding: 0 0 0 30px;
+        color: var(--navbar-color);
+        opacity: .8;
+    }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .about .about-descript p {
+        padding-right: 0;
+        text-align: center;
+        margin: 0;
+    }
+    .about .about-descript h2{
+        text-align: center;
+    }
+    .about .about-right {
+        padding-top: 50px;
+    }
+}
