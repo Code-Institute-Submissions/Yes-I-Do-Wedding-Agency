@@ -1,0 +1,65 @@
+/*==========ABOUT PAGE=========*/
+.heading h1 {
+    font-size: 25px;
+    color: var(--navbar-color);
+    opacity: .5;
+    letter-spacing: 3px;
+}
+
+.text1 {
+    margin-bottom: 50px;
+}
+
+.text1,
+.text2 {
+    color: var(--main-text-color);
+    font-size: 18px;
+}
+
+.about-text h2 {
+    color: var(--navbar-color);
+    opacity: .5;
+    font-size: 30px;
+    text-transform: uppercase;
+
+}
+.about-text h4 {
+    color: var(--brand-color);
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.about-text p {
+    color: var(--main-text-color);
+}
+
+.quote p:first-child {
+    font-size: 20px;
+    color: var(--navbar-color);
+    opacity: .4;
+}
+
+.quote p:last-child {
+    color: var(--brand-color);
+}
+
+.we-do h4 {
+    color: var(--navbar-color);
+    opacity: .5;
+    letter-spacing: 1px;
+}
+
+.we-do h5 {
+    color: var(--brand-color);
+    font-family: var(--second-font);
+    font-size: 30px;
+}
+
+.we-do p {
+    color: var(--main-text-color);
+    font-size: 18px;
+}
+
+.carousel-inner {
+    max-height: 40rem !important;
+}
