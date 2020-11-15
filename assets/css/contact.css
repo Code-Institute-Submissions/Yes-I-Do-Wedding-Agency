@@ -1,0 +1,65 @@
+
+.lead-text {
+    color: var(--navbar-color);
+    opacity: .8;
+}
+.contact .info {
+    width: 100%;
+}
+
+.contact .info i {
+    font-size: 20px;
+    float: left;
+    width: 44px;
+    height: 44px;
+    color: var(--navbar-color);
+    background: var(--brand-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    transition: all .3s ease-in-out;
+}
+
+.contact .info h4 {
+    padding: 0 0 0 60px;
+    color: var(--navbar-color);
+    opacity: .8;
+}
+
+.contact .info p {
+    padding: 0 0 0 60px;
+    color: var(--navbar-color);
+    opacity: .8;
+}
+
+.contact .info .phone,
+.contact .info .email,
+.contact .info .address {
+    margin-top: 40px;
+}
+
+.signup-form h2 {
+    color: var(--navbar-color);
+    opacity: .8;
+}
+
+.form-group label {
+    color: var(--navbar-color);
+    opacity: .8;
+}
+
+.contact button[type="submit"] {
+    background: #f1e8da;
+    border: 0;
+    padding: 10px 40px;
+    color: var(--navbar-color);
+}
+
+.contact button[type="submit"]:hover {
+    color: var(--brand-color);
+}
+
+.btn {
+    margin-bottom: 70px;
+}
