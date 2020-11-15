@@ -1,3 +1,10 @@
+@import "media.css";
+@import "testimonial.css";
+@import "services.css";
+@import "contact.css";
+@import "gallery.css";
+@import "about.css";
+
 :root {
     --second-font: 'Great Vibes', cursive;
     --bg-color: #fcfbf9;
@@ -167,14 +174,12 @@ body{
 
 .btn-custom:hover {
     color: var(--brand-color);
-
 }
 
 /*=============About Section=============*/
 .about {
     background-color: #f1e8da;
 }
-
 
 .about .about-descript p {
     font-size: 16px;
@@ -251,8 +256,8 @@ body{
  }
 
  .new .section-title h5 {
-     text-transform: uppercase;
-     color: var(--main-text-color);
+    text-transform: uppercase;
+    color: var(--main-text-color);
  }
 
  .new .section-title a {
@@ -317,9 +322,9 @@ body{
 
 .new .details a:hover{
     background-color: var(--navbar-color);
-    color: var(--brand-color);
-  
+    color: var(--brand-color); 
 }
+
 .contact-content p {
     color: var(--main-text-color);
 }
