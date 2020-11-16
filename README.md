@@ -1,6 +1,11 @@
 # Yes-I-Do-Wedding-Agency
 
-This is a Wedding website build with HTML CSS and Bootstrap. I made this site as my first Milestone project in Code Institute Full Stack program.
+Yes I Do Wedding Agency is for the people who are planning to have a wedding in Ireland, Dominican Republic or Spain. We offer wide range of packiges for every need from planning to happy ever after...
+
+We guide you throw all the steps you need to have a great wedding.
+
+## UX
+
 
 
 ### Technologies Used
