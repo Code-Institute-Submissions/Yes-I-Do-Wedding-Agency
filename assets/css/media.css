@@ -13,6 +13,9 @@
     .social-media {
         margin: 0 auto;
     }
+    .navbar-brand {
+        font-size: 40px;
+    }
     .nav-light {
         background-color: var(--bg-color) !important;
         position: relative;
@@ -109,6 +112,7 @@
     }
     .quote p:last-child {
         font-size: 13px;
+        padding-top: 10px;
     }
     .we-do h4 {
         font-size: 20px;
@@ -161,6 +165,12 @@
     }
     .navbar-brand small {
         font-size: 13px;
+    }
+    .hero-img-content h4 {
+        font-size: 20px;
+    }
+    .main-text {
+        font-size: 18px;
     }   
 }
 

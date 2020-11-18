@@ -344,6 +344,24 @@ body{
 
 }
 
+.footer-nav-item{
+    text-decoration: none;
+    list-style-type: none;
+    padding-bottom: 10px; 
+}
+.footer-nav-link {
+    color: var(--navbar-color);
+    text-transform: uppercase;   
+}
+
+.footer-nav-link:hover {
+    color: var(--brand-color);
+}
+
+.footer-nav-item.active > a {
+    color: var(--brand-color);
+}
+
 /*-- Fixed Background Image--*/
 .fixed-background {
     position: relative;
