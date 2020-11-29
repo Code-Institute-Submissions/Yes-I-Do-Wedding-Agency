@@ -8,7 +8,9 @@
 :root {
     --second-font: 'Great Vibes', cursive;
     --bg-color: #fcfbf9;
-    --brand-color: #eeb654;
+    /* --brand-color: #fcbb4c; */
+    /* --brand-color: #ffbf00; */
+    --brand-color: #f9a602;
     --navbar-color: #372a15;
     --main-text-color: #675A47;
 }
@@ -78,10 +80,7 @@ body{
 
 .nav-light .navbar-nav > .nav-item > .nav-link {
     font-size: 15px;
-    padding-top: 1.5rem;
-    padding-bottom: 1.5rem;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding: 24px 20px 24px 20px;
     font-weight: 500;
     color: var(--navbar-color);
     text-transform: uppercase;
@@ -115,6 +114,7 @@ body{
 }
 
 .nav-light .navbar-toggler {
+    z-index: 3;
     border: none;
     color: var(--brand-color) !important;
     cursor: pointer;
@@ -126,16 +126,16 @@ body{
 .nav-light .navbar-toggler:focus {
     outline: none !important;
 }
-
+/*----Carousel---------*/
 .carousel-inner {
     max-height: 50rem !important;
 }
 
-/*---Change Carousel Transition Speed --*/
+/*---Carousel Transition Speed --*/
 .carousel-item-next,
 .carousel-item-prev,
 .carousel-item.active {
-  transition: transform 2.5s ease-in-out;
+  transition: transform 3s ease-in-out;
 }
 
 .hero-text h1{
@@ -163,8 +163,9 @@ body{
     color: var(--main-text-color);
 }
 
-.what-we-do h4 {
+.what-we-do h3 {
     color: var(--main-text-color);
+    font-size: 25px;
 }
 
 .btn-custom {
@@ -214,8 +215,9 @@ body{
     letter-spacing: .2px;
 }
 
-.des-card-text h4 {
+.des-card-text h1 {
     color: var(--main-text-color);
+    font-size: 25px;
 }
 
 .des-card-text p {
@@ -246,29 +248,30 @@ body{
 .quote h5 {
     color: var(--main-text-color);
 }
-
-/*=======Footer=========*/
-.footer {
-    background: #f1e8da;
-}
- .new {
-    overflow: hidden;
- }
-
- .new .section-title h5 {
+/*======Footer-images=====*/
+.section-title h5 {
     text-transform: uppercase;
     color: var(--main-text-color);
  }
 
- .new .section-title a {
+ .section-title a {
     text-decoration: none;
     color: var(--navbar-color);
     opacity: .5;
 }
 
-.new .section-title a:hover {
+.section-title a:hover {
     opacity: 1;
 }
+
+/*=======Footer=========*/
+.footer {
+    background: var(--bg-color);
+    border-top: 1px solid rgba(0,0,0,.2);
+}
+ .new {
+    overflow: hidden;
+ }
 
 .new .nav-tabs {
     border: 0;
@@ -404,6 +407,7 @@ body{
 /*=====Bootstrap Mobile Gutter Fix======*/
 .row,
 .container-fluid {
-  margin-left: 0px !important;
-  margin-right: 0px !important;
+    width: 100%;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
 }

@@ -1,4 +1,14 @@
+.contact-img img {
+    height: 500px;
+}
 
+.contact-img-text h1 {
+    font-size: 40px;
+    color: var(--navbar-color);
+    opacity: .8;
+    font-weight: normal;
+    letter-spacing: 2px;
+}
 .lead-text {
     color: var(--navbar-color);
     opacity: .8;
@@ -62,4 +72,42 @@
 
 .btn {
     margin-bottom: 70px;
+}
+
+.carousel-caption {
+    top: 50%;
+}
+
+.img-crop {
+    position: relative;
+}
+.bg-costum {
+    position: absolute;
+    transform: translateY(-50%);
+    background-color: rgba(255,255,255,.8);
+    color: #B4897F;
+    border-radius: 3px;
+}
+
+.bg-costum h1 {
+    font-family: 'Catamaran', sans-serif;
+    font-size: 100px;
+    font-style: italic;
+    font-weight: 200;
+}
+
+.bg-costum h2 {
+    font-size: 50px;
+    font-style: italic;
+    font-family: var(--second-font);
+}
+.bg-costum p {
+    font-size: 30px;
+    letter-spacing: 1px;
+    font-family: var(--second-font);
+}
+
+.contact-bottom-text h4 {
+    color: var(--navbar-color);
+    opacity: .8;
 }

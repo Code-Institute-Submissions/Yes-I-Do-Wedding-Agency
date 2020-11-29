@@ -8,3 +8,11 @@
     text-align: center;
     margin-top: 2rem;
   }
+
+  .hero-img-content {
+    color: var(--navbar-color);
+  }
+
+  .hero p {
+    color: var(--navbar-color);
+  }
