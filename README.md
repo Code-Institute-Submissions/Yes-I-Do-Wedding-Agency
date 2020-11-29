@@ -24,16 +24,16 @@ The business goals the website are:
 
 **Client stories**
 
- * As a first time visitor to the website, I want to easy navigate throughout the site and easily find what I need.
- * As a first time visitor to the website, I want see this agancy's gallery and images from previous works.
- * As a first time visitor to the website, I want know more about the agency team members.
+ * As a visitor to the website, I want to easy navigate throughout the site and easily find what I need.
+ * As a visitor to the website, I want see this agancy's gallery and images from previous works.
+ * As a visitor to the website, I want know more about the agency team members.
  * As a possible costumer, I want to know what former clients thought of their works.
  * As an interested costumer, I want simply navigate to contact page and fill the contact form.
  * As an interested costumer, I want to follow the agency on social media, so I can keep up with the latest news.
 
 **Wireframe mockups:** 
 
-Wireframe information can be found in separate [Wirefarme pdf]()file. **************
+Wireframe information can be found in separate Wirefarme pdf file.
 
 ## Features
 Each page has a responsive top bar with a Company Logo (in the middle) a phone number to the Agency (top right) and social media icons (top left).
@@ -45,9 +45,16 @@ Each page has a footer with copyright information company address, phone number 
 
 ## Credits
 
-## Media
+#### Media
 
-* All of the images taken from [UNSPLASH.com](https://unsplash.com/).
+* The images taken from --
+[UNSPLASH.com](https://unsplash.com/) --
+[westcoastweddingsireland.com](http://westcoastweddingsireland.com/plan-wedding-beautiful-ireland-abroad/),--
+[chancycharm weddings](https://chanceycharmweddings.com/),--
+[aislinnevents](https://aislinnevents.com/),--
+[pinterest](https://www.pinterest.ie/)
+
+* All madia logo images taken from [bark.com](https://www.bark.com/)
 
 #### Icons
 
@@ -55,4 +62,9 @@ Each page has a footer with copyright information company address, phone number 
 
 #### Content
 
-* The text was copied from [House of Hannah](http://houseofhannah.ie/), [Olivia Buckley International](https://www.oliviabuckley.com/), [Caribbean Wedding](https://wedding-caribbean.com/) and [My Weddind Planner](http://myweddingplanner.hu/)
+* The text was copied from --
+[House of Hannah](http://houseofhannah.ie/), --
+[Olivia Buckley International](https://www.oliviabuckley.com/), --
+[Caribbean Wedding](https://wedding-caribbean.com/), --
+[My Weddind Planner](http://myweddingplanner.hu/) --
+[chancycharm weddings](https://chanceycharmweddings.com/)
