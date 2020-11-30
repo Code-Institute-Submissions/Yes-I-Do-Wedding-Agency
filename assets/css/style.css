@@ -139,9 +139,17 @@ body{
 }
 
 .hero-text h1{
+    font-size: 30px;
+    padding-top: 40px;
+    color: var(--main-text-color);
+    text-transform: uppercase;
+}
+
+.hero-text h2 {
     font-family: var(--second-font);
-    font-size: 60px;
-    font-weight: lighter;
+    font-size: 50px;
+    text-transform: lowercase;
+    letter-spacing: 2px;
     padding-top: 40px;
     color: var(--brand-color);
 }
@@ -151,12 +159,38 @@ body{
     color: var(--main-text-color)
 }
 
+.hero-text-widget h1 {
+    color: var(--main-text-color);
+    font-size: 35px;
+}
+
+.hero-text-widget p {
+    color: var(--main-text-color);
+}
+
+.named-text {
+    background: #F0E6E0;
+}
+
+.named-text h1 {
+    color: white;
+    font-size: 50px;
+}
+.named-text p{
+    color: var(--main-text-color);
+
+}
+.what-we-do h1 {
+    font-size: 60px;
+    margin-top: 50px;
+    color: var(--main-text-color);
+    text-transform: uppercase;
+}
+
 .what-we-do h2 {
     font-family: var(--second-font);
-    font-size: 60px;
-    font-weight: lighter;
-    margin-top: 50px;
     color: var(--brand-color);
+    font-size: 40px;
 }
 
 .what-we-do p {
@@ -179,12 +213,12 @@ body{
 
 /*=============About Section=============*/
 .about {
-    background-color: #f1e8da;
+    background-color: #F0E6E0;
 }
 
 .about .about-descript p {
     font-size: 16px;
-    color: var(--navbar-color);
+    color: var(--main-text-color);
     line-height: 1.6;
     margin-right: 50px;
     padding-top: 20px;
@@ -193,6 +227,7 @@ body{
 .about .about-descript h2 {
     font-family: var(--second-font);
     color: var(--brand-color);
+    font-size: 50px;
     letter-spacing: 3px;
     margin-top: 50px;
     padding-top: 30px; 
@@ -218,6 +253,7 @@ body{
 .des-card-text h1 {
     color: var(--main-text-color);
     font-size: 25px;
+    text-transform: uppercase;
 }
 
 .des-card-text p {
@@ -280,8 +316,8 @@ body{
 .new .nav-link {
     border: 0;
     padding: 12px 15px;
-    transition: .3s;
-    color: var(--navbar-color);
+    transition: .4s;
+    color: var(--main-text-color);
     border-radius: 0;
     border-right: 2px solid var(--brand-color);
     font-weight: 600;
@@ -295,7 +331,7 @@ body{
 }
 
 .new .nav-link.active {
-    color: var(--navbar-color);
+    color: var(--main-text-color);
     background: var(--brand-color);
     border-color: var(--brand-color);
 }
@@ -313,18 +349,17 @@ body{
 }
 
 .new .details h5 {
-    color: var(--navbar-color);
-    opacity: .5;
+    color: var(--main-text-color);
 }
 
 .new .details a{
     background-color: var(--brand-color);
-    color: var(--navbar-color);
+    color: var(--main-text-color);
     float: right;   
 }
 
 .new .details a:hover{
-    background-color: var(--navbar-color);
+    background-color: var(--main-text-color);
     color: var(--brand-color); 
 }
 
@@ -353,7 +388,7 @@ body{
     padding-bottom: 10px; 
 }
 .footer-nav-link {
-    color: var(--navbar-color);
+    color: var(--main-text-color);
     text-transform: uppercase;   
 }
 
@@ -404,7 +439,7 @@ body{
     right: 0;  
   }
 
-/*=====Bootstrap Mobile Gutter Fix======*/
+  /*=====Bootstrap Mobile Gutter Fix======*/
 .row,
 .container-fluid {
     width: 100%;
