@@ -51,16 +51,34 @@
     color: var(--brand-color);
 }
 
-.we-do h4 {
-    color: var(--navbar-color);
-    opacity: .5;
+.team-header-text h1 {
+    font-size: 40px;
+    text-transform: uppercase;
+    color: var(--main-text-color);  
+}
+
+.team-header-text h2 {
+    color: var(--brand-color);
+    font-family: var(--second-font);
+    font-size: 50px;
     letter-spacing: 1px;
+}
+
+.team-text p {
+    padding: 20px 0;
+    color: var(--main-text-color);
+}
+
+.we-do h4 {
+    color: var(--main-text-color);
+    letter-spacing: 1px;
+    font-size: 30px;
 }
 
 .we-do h5 {
     color: var(--brand-color);
     font-family: var(--second-font);
-    font-size: 30px;
+    font-size: 35px;
 }
 
 .we-do p {
