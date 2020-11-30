@@ -47,15 +47,11 @@ Each page has a footer with copyright information company address, phone number 
 
 #### Media
 
-* The images taken from --
-[UNSPLASH.com](https://unsplash.com/)--
-
-[westcoastweddingsireland.com](http://westcoastweddingsireland.com/plan-wedding-beautiful-ireland-abroad/),--
-
-[chancycharm weddings](https://chanceycharmweddings.com/),--
-
-[aislinnevents](https://aislinnevents.com/),--
-
+* The images taken from 
+[UNSPLASH.com](https://unsplash.com/)
+[westcoastweddingsireland.com](http://westcoastweddingsireland.com/plan-wedding-beautiful-ireland-abroad/),
+[chancycharm weddings](https://chanceycharmweddings.com/),
+[aislinnevents](https://aislinnevents.com/),
 [pinterest](https://www.pinterest.ie/)
 
 * All madia logo images taken from [bark.com](https://www.bark.com/)
@@ -68,12 +64,8 @@ Each page has a footer with copyright information company address, phone number 
 
 * The text was copied from--
 
-[House of Hannah](http://houseofhannah.ie/),--
-
-[Olivia Buckley International](https://www.oliviabuckley.com/),--
-
-[Caribbean Wedding](https://wedding-caribbean.com/),--
-
-[My Weddind Planner](http://myweddingplanner.hu/)--
-
+[House of Hannah](http://houseofhannah.ie/),
+[Olivia Buckley International](https://www.oliviabuckley.com/),
+[Caribbean Wedding](https://wedding-caribbean.com/),
+[My Weddind Planner](http://myweddingplanner.hu/)
 [chancycharm weddings](https://chanceycharmweddings.com/)
