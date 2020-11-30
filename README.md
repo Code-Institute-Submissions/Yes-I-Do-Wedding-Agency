@@ -15,7 +15,7 @@ The business goals the website are:
 
 **The ideal client for this business is:**
 
- * Every couple who desided to getting married.
+ * Every couple who decided to getting married.
  * Everybody who know somebody who want to get married. 
 
 **Visitors are searching for:**
@@ -47,12 +47,13 @@ Each page has a footer with copyright information company address, phone number 
 
 #### Media
 
-* The images taken from 
+* The images taken from
+
 [UNSPLASH.com](https://unsplash.com/)
-[westcoastweddingsireland.com](http://westcoastweddingsireland.com/plan-wedding-beautiful-ireland-abroad/),
-[chancycharm weddings](https://chanceycharmweddings.com/),
-[aislinnevents](https://aislinnevents.com/),
-[pinterest](https://www.pinterest.ie/)
+[WestCoastWeddingsIreland](http://westcoastweddingsireland.com/plan-wedding-beautiful-ireland-abroad/),
+[ChanCycharm Weddings](https://chanceycharmweddings.com/),
+[AislinnEvents](https://aislinnevents.com/),
+[Pinterest](https://www.pinterest.ie/)
 
 * All madia logo images taken from [bark.com](https://www.bark.com/)
 
@@ -62,10 +63,10 @@ Each page has a footer with copyright information company address, phone number 
 
 #### Content
 
-* The text was copied from--
+* The text was copied from
 
 [House of Hannah](http://houseofhannah.ie/),
 [Olivia Buckley International](https://www.oliviabuckley.com/),
 [Caribbean Wedding](https://wedding-caribbean.com/),
 [My Weddind Planner](http://myweddingplanner.hu/)
-[chancycharm weddings](https://chanceycharmweddings.com/)
+[ChanCycharm Weddings](https://chanceycharmweddings.com/)
