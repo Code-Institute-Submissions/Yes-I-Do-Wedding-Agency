@@ -1,8 +1,7 @@
 /*==========ABOUT PAGE=========*/
 .heading h1 {
-    font-size: 25px;
-    color: var(--navbar-color);
-    opacity: .5;
+    font-size: 40px;
+    color: var(--main-text-color);
     letter-spacing: 3px;
 }
 
@@ -16,17 +15,27 @@
     font-size: 18px;
 }
 
+.about-text h1 {
+    color: var(--main-text-color);
+    font-size: 50px;
+}
+
+.about-text span {
+    color: var(--brand-color);
+    font-family: var(--second-font);
+    font-size: 60px;
+}
+
 .about-text h2 {
-    color: var(--navbar-color);
-    opacity: .5;
-    font-size: 30px;
-    text-transform: uppercase;
+    color: var(--main-text-color);
+    font-size: 15px;
 
 }
 .about-text h4 {
     color: var(--brand-color);
-    font-size: 20px;
-    text-transform: uppercase;
+    font-size: 50px;
+    font-family: var(--second-font);
+    text-transform: lowercase;
 }
 
 .about-text p {
@@ -34,9 +43,8 @@
 }
 
 .quote p:first-child {
-    font-size: 20px;
-    color: var(--navbar-color);
-    opacity: .4;
+    font-size: 15px;
+    color: var(--main-text-color);
 }
 
 .quote p:last-child {
