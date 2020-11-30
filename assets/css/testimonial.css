@@ -1,8 +1,7 @@
 
 .main-text {
     font-family: 'Playfair Display', serif;
-    color: var(--navbar-color);
-    opacity: .5;
+    color: var(--main-text-color);
     letter-spacing: 3px;
     text-transform: uppercase;
     text-align: center;
@@ -10,9 +9,9 @@
   }
 
   .hero-img-content {
-    color: var(--navbar-color);
+    color: var(--main-text-color);
   }
 
   .hero p {
-    color: var(--navbar-color);
+    color: var(--main-text-color);
   }

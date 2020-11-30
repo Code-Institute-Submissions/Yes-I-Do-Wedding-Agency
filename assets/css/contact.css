@@ -10,8 +10,7 @@
     letter-spacing: 2px;
 }
 .lead-text {
-    color: var(--navbar-color);
-    opacity: .8;
+    color: var(--main-text-color);
 }
 .contact .info {
     width: 100%;
@@ -39,8 +38,7 @@
 
 .contact .info p {
     padding: 0 0 0 60px;
-    color: var(--navbar-color);
-    opacity: .8;
+    color: var(--main-text-color);
 }
 
 .contact .info .phone,
@@ -50,13 +48,11 @@
 }
 
 .signup-form h2 {
-    color: var(--navbar-color);
-    opacity: .8;
+    color: var(--main-text-color);
 }
 
 .form-group label {
-    color: var(--navbar-color);
-    opacity: .8;
+    color: var(--main-text-color);
 }
 
 .contact button[type="submit"] {
@@ -101,6 +97,7 @@
     font-style: italic;
     font-family: var(--second-font);
 }
+
 .bg-costum p {
     font-size: 30px;
     letter-spacing: 1px;
