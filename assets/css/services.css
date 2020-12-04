@@ -28,15 +28,13 @@
 
 .services-engaded-text span {
     font-family: 'Playfair Display', serif;
-    padding-left: 60px;
     font-size: 20px;
-    color: var(--navbar-color);
-    opacity: .8;
+    padding-left: 15px;
+    color: var(--main-text-color);
 }
 
 .services-engaded-text p {
-    color: var(--navbar-color);
-    opacity: .8;
+    color: var(--main-text-color);
     line-height: 30px;
 }
 
@@ -50,15 +48,12 @@
     float: left;
     display: flex;
     justify-content: center;
-    align-items: center; 
+    align-items: center;
+    margin-top: 7px; 
 }
 
 .services-icon-list-item p {
     padding-left: 30px;
-}
-ul > li {
-    color: var(--navbar-color);
-    
 }
 
 .services-widget-title h1 {
@@ -91,7 +86,7 @@ ul > li {
 .service-pack-header-text h1 {
     font-size: 40px;
     text-transform: uppercase;
-    color: var(--main-text-color);  
+    color: var(--main-text-color);     
 }
 
 .service-pack-header-text h2 {
@@ -101,6 +96,18 @@ ul > li {
     letter-spacing: 1px;
 }
 
+.service-pack-header-text-left h1 {
+    font-size: 40px;
+    text-transform: uppercase;
+    color: var(--main-text-color);  
+}
+
+.service-pack-header-text-left h2 {
+    color: var(--brand-color);
+    font-family: var(--second-font);
+    font-size: 50px;
+    letter-spacing: 1px;
+}
 .service-pack-text p {
     padding: 20px 0;
     color: var(--main-text-color);
@@ -150,16 +157,15 @@ ul > li {
        margin: 18px;
        height: 300px;
        background-size: cover;
-       background-position: center center;
-    
- }
+       background-position: center center;  
+}
 
 .service-trend-header-text h1 {
     font-size: 40px;
     text-transform: uppercase;
     color: var(--navbar-color);
     opacity: .8;   
- }
+}
 
 .service-trend-header-text h2 {
     font-size: 40px;
@@ -183,45 +189,44 @@ ul > li {
     color: var(--brand-color);
     font-size: 20px;
     padding-left: 80px;
- }
+}
 .testimonial-text span {
      font-size: 50px;
      color: var(--main-text-color);
      padding: 0;
      margin: 0;
- }
+}
 
- .testimonial-text h2 {
+.testimonial-text h2 {
      color: var(--main-text-color);
      line-height: 40px;
      font-style: italic;
- }
+}
 
- .testimonial-text p {
+.testimonial-text p {
      color: var(--main-text-color);
      padding-top: 30px;
- }
+}
 
- .testimonial-text p:last-child {
+.testimonial-text p:last-child {
      font-family: var(--second-font);
      color: var(--brand-color);
      font-size: 30px;
      padding: 0;
+}
 
- }
-
- .img1 {
+.img1 {
     position: absolute;
     left: 300px;
     z-index: 1000;
     border: 7px solid var(--bg-color);
- }
+}
 
- .img2 {
+.img2 {
     position: relative;
     left: 60px;
     top: 40px;
- }
+}
 
 .img3 {
     z-index: 500;
@@ -229,42 +234,42 @@ ul > li {
     border: 7px solid var(--bg-color);
     left: 30px;
     bottom: 20px;
- }
+}
 
- .service-signature-text h1 {
+.service-signature-text h1 {
      font-size: 20px;
      color: var(--main-text-color);
      padding-top: 30px;
- }
+}
 
- .service-signature-text h2 {
+.service-signature-text h2 {
      color: var(--brand-color);
      padding-top: 20px;
- }
+}
 
- .service-signature-text p {
+.service-signature-text p {
      color: var(--main-text-color);
      padding-top: 20px;
- }
+}
 
- .contact-info-text h1 {
+.contact-info-text h1 {
      color: var(--brand-color);
      letter-spacing: 2px;
      padding-top: 20px;
- }
+}
 
- .contact-info-text h2 {
+.contact-info-text h2 {
      color: var(--main-text-color);
      font-size: 15px;
      letter-spacing: 1px;
      padding-top: 20px;
      line-height: 20px;
- }
+}
 
- .contact-info-text p {
+.contact-info-text p {
      color: var(--main-text-color);
      padding: 10px 0;
- }
+}
 
 
 /*-- Fixed Background Image Header--*/
