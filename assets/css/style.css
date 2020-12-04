@@ -1,10 +1,3 @@
-@import "media.css";
-@import "testimonial.css";
-@import "services.css";
-@import "contact.css";
-@import "gallery.css";
-@import "about.css";
-
 :root {
     --second-font: 'Great Vibes', cursive;
     --bg-color: #fcfbf9;
@@ -168,18 +161,18 @@ body{
     color: var(--main-text-color);
 }
 
-.named-text {
+.named-text-bg {
     background: #F0E6E0;
 }
 
-.named-text h1 {
+.named-text-bg h1 {
     color: white;
     font-size: 50px;
 }
-.named-text p{
+.named-text-bg p{
     color: var(--main-text-color);
-
 }
+
 .what-we-do h1 {
     font-size: 60px;
     margin-top: 50px;
