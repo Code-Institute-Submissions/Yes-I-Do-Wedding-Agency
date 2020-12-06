@@ -133,6 +133,9 @@
         font-size: 13px;
         padding-top: 10px;
     }
+    .about-text p {
+        padding: 0;
+    }
     /*====Services===*/
     .service-trend-header-text h1, h2, h3 {
         text-align: center;
@@ -221,6 +224,9 @@
     .about-quote p:last-child {
         font-size: 13px;
         padding-top: 10px;
+    }
+    .about-text p {
+        padding: 0;
     }
     
 }
