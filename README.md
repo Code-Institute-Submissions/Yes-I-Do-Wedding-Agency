@@ -21,6 +21,7 @@ The business goals the website are:
 **Visitors are searching for:**
 
  * An agency who can provide wide range of services best offers for every budget.
+ * An a Wedding Planner Studio who can guide them to choose the right packege.
 
 **Client stories**
 
