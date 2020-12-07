@@ -2,12 +2,13 @@
     object-fit: cover;
 }
 
-.contact-img-text h1 {
-    font-size: 40px;
-    color: var(--navbar-color);
-    opacity: .8;
-    font-weight: normal;
-    letter-spacing: 2px;
+.contact-header-text h1 {
+    color: var(--main-text-color);
+}
+
+.contact-header-text p {
+    color: var(--main-text-color);
+    padding-top: 20px;
 }
 .lead-text {
     color: var(--main-text-color);
@@ -19,21 +20,19 @@
 .contact .info i {
     font-size: 20px;
     float: left;
-    width: 44px;
-    height: 44px;
+    width: 45px;
+    height: 45px;
     color: var(--navbar-color);
     background: var(--brand-color);
     display: flex;
     justify-content: center;
     align-items: center;
     border-radius: 50%;
-    transition: all .3s ease-in-out;
 }
 
 .contact .info h4 {
     padding: 0 0 0 60px;
-    color: var(--navbar-color);
-    opacity: .8;
+    color: var(--main-text-color);
 }
 
 .contact .info p {
@@ -70,41 +69,6 @@
     margin-bottom: 70px;
 }
 
-.carousel-caption {
-    top: 50%;
-}
-
-.img-crop {
-    position: relative;
-}
-.bg-costum {
-    position: absolute;
-    transform: translateY(-50%);
-    background-color: rgba(255,255,255,.8);
-    color: #B4897F;
-    border-radius: 3px;
-}
-
-.bg-costum h1 {
-    font-family: 'Catamaran', sans-serif;
-    font-size: 100px;
-    font-style: italic;
-    font-weight: 200;
-}
-
-.bg-costum h2 {
-    font-size: 50px;
-    font-style: italic;
-    font-family: var(--second-font);
-}
-
-.bg-costum p {
-    font-size: 30px;
-    letter-spacing: 1px;
-    font-family: var(--second-font);
-}
-
 .contact-bottom-text h4 {
-    color: var(--navbar-color);
-    opacity: .8;
+    color: var(--main-text-color);
 }
