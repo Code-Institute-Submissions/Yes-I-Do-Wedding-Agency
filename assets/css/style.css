@@ -1,8 +1,6 @@
 :root {
     --second-font: 'Great Vibes', cursive;
     --bg-color: #fcfbf9;
-    /* --brand-color: #fcbb4c; */
-    /* --brand-color: #ffbf00; */
     --brand-color: #f9a602;
     --navbar-color: #372a15;
     --main-text-color: #675A47;
@@ -23,7 +21,7 @@ body{
 }
 
 .navbar-brand:hover {
-    color: #f1b65d;;
+    color: #ca8702;
 }
 
 .navbar-brand small {
@@ -166,7 +164,7 @@ body{
 }
 
 .named-text-bg h1 {
-    color: white;
+    color: #c59e87;
     font-size: 50px;
 }
 .named-text-bg p{
@@ -174,8 +172,7 @@ body{
 }
 
 .what-we-do h1 {
-    font-size: 60px;
-    margin-top: 50px;
+    font-size: 50px;
     color: var(--main-text-color);
     text-transform: uppercase;
 }
@@ -213,26 +210,13 @@ body{
     font-size: 16px;
     color: var(--main-text-color);
     line-height: 1.6;
-    margin-right: 50px;
-    padding-top: 20px;
 }
 
 .about .about-descript h2 {
     font-family: var(--second-font);
     color: var(--brand-color);
     font-size: 50px;
-    letter-spacing: 3px;
-    margin-top: 50px;
-    padding-top: 30px; 
-}
-
-.about .about-right {
-    position: relative;
-}
-
-.about .about-right .about-right-img img {
-    width: 100%;
-    margin: 20px 0;
+    letter-spacing: 3px; 
 }
 
 /*================Destination Section=======*/
@@ -370,9 +354,7 @@ body{
 }
 
 .socket {
-    background: #f1e8da;
     border-top: 1px solid rgba(0,0,0,.2);
-
 }
 
 .footer-nav-item{
