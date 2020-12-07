@@ -5,14 +5,14 @@
         padding-right: 50px;
         padding-top: 0;
     }
-    .about-descript h2 {
-        text-align: center;
+    .about .about-descript p {
+        font-size: 20px;
     }
     .about .about-descript p:last-child {
-        padding: 50px 0;
+        padding: 30px 0;
     }
     .about .about-descript p:nth-child(2) {
-        padding: 50px 0;
+        padding: 30px 0;
     }
     /*===Contact===*/
     .contact-img img {
@@ -22,8 +22,11 @@
         width: 100%;
     }
     /*====Services====*/
-    .service-pack-header-text {
-        text-align: right;
+    .service-pack-text p {
+        padding: 20px 0;
+    }
+    .service-trend-text p {
+        padding: 20px 0;
     }
     /*=====About====*/
     .about-text p {
@@ -37,13 +40,6 @@
 }
 
 @media screen and (max-width: 1199px){
-    /*=====Services====*/
-    .service-pack-header-text-left {
-        text-align: left;
-    }
-    .service-pack-header-text {
-        text-align: right;
-    }
     /*===Contact===*/
     .contact-img img {
         height: 400px;
@@ -61,16 +57,16 @@
     .we-do h5 {
         padding: 20px 0;
     }
-    .about-text p {
-        padding: 30px 0 0 0;
+    .about .about-descript p:last-child {
+        padding: 30px 0;
+    }
+    .about .about-descript p:nth-child(2) {
+        padding: 30px 0;
     }
     
 }
 @media screen and (max-width: 991px) {
-    /*===Home====*/
-    .social-media {
-        margin: 0 auto;
-    }
+    /*===Home====*/   
     .navbar-brand {
         font-size: 40px;
     }
@@ -106,6 +102,9 @@
     .named-text-bg {
         text-align: center;
     }
+    .des-card-text {
+        text-align: center;
+    }
     .socket-tel {
         text-align: center;
     }
@@ -115,9 +114,6 @@
     /*====Contact===*/
     .contact-img img {
         height: 300px;
-    }
-    .contact-info-text h1 {
-        text-align: center;
     }
     /*===About===*/
     .about-text {
@@ -136,22 +132,11 @@
     .about-text p {
         padding: 0;
     }
-    /*====Services===*/
-    .service-trend-header-text h1, h2, h3 {
-        text-align: center;
-    }
-    .service-trend-text p {
-        text-align: center;
-    }
-    .service-pack-header-text {
-        text-align: center;
-    }
-    .service-pack-header-text-left {
-        text-align: center;
-    }
-    .services-widget-title h1 {
-        text-align: center;
-    }
+    /*====Gallery===*/
+    .gallery-img {
+        flex: 50%;
+        max-width: 50%;
+      }
 }
 
 @media screen and (max-width: 767px) {
@@ -228,30 +213,26 @@
     .about-text p {
         padding: 0;
     }
-    
+    /*===Gallery===*/
+    .gallery-img {
+        flex: 100%;
+        max-width: 100%;
+      } 
 }
 
 @media screen and (max-width: 575px) {
     /*===Home===*/
-    .about .about-descript p {
-        padding-right: 0;
-        padding-left: 0;
-        margin: 0;
-        text-align: center;
+    .social-media {
+        margin: 0 auto;
     }
     .about .about-descript h2 {
-        text-align: center;
         font-size: 35px;
-        padding-top: 0;
     }
     .named-text-bg h1 {
         font-size: 35px;
     }
     .hero-text h1 {
-        font-size: 20px;
-        padding: 30px 0 0 0;
-        line-height: 30px;
-        letter-spacing: 3px;
+        padding-top: 50px;
     }
     .hero-text h2 {
         font-size: 35px;
@@ -299,97 +280,20 @@
     .contact-header-text h1 {
         font-size: 20px;
     }
-    /*===Services=====*/
-    .img1 {
-        display: none;
-    }
-     .img2 {
-     display: none;
-    }
-    .img3 {
-        display: none;
-    }
    /*====About====*/
     .about-text h4 {
-        font-size: 31px;
+        font-size: 39px;
     }
     .we-do h4 {
         font-size: 25px;
     }
     .we-do h5 {
-        font-size: 25px;
+        font-size: 28px;
         letter-spacing: 1px;
         line-height: 50px;
         padding: 0 0;    
     }
     .about-text p {
         padding: 0;
-    }
-}
-
-@media screen and (min-width: 992px) and (max-width: 1199px) {
-    /*====Home===*/
-    .about .about-descript p {
-        padding-right: 20px;
-        text-align: center;
-    } 
-    .about .about-descript h2 {
-        text-align: center;
-        padding-right: 40px;
-   
-    }
-    .about .about-right .about-right-img img {
-       width: 75%;
-    }
-}
-
-@media screen and (min-width: 768px) and (max-width: 991px) {
-    /*====Home=====*/
-    .social-media {
-        padding: 0;
-        margin: 0;
-    }
-    .about .about-right {
-        padding-top: 20px;
-    }
-    .about .about-descript p {
-        padding-right: 0;
-        text-align: center;
-        margin: 0;
-    }
-    .about .about-descript h2{
-        text-align: center;
-    }
-    .about .about-right .about-right-img img {
-        width: 85%;
-        padding-left: 40px;
-    }
-    /*===Contact===*/
-    .contact .info i {
-        font-size: 15px;
-        width: 30px;
-        height: 30px;
-    }   
-    .contact .info h4 {
-        font-size: 16px;
-        padding: 0 0 0 50px;
-    }
-    .contact .info p {
-        padding: 0 0 0 30px;
-    }
-}
-
-@media screen and (min-width: 576px) and (max-width: 767px) {
-    /*====Home====*/
-    .about .about-descript p {
-        padding-right: 0;
-        text-align: center;
-        margin: 0;
-    }
-    .about .about-descript h2{
-        text-align: center;
-    }
-    .about .about-right {
-        padding-top: 50px;
     }
 }
