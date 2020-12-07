@@ -1,6 +1,6 @@
 
 #fixed2 {
-    background-image: url("https://images.unsplash.com/photo-1521543269800-27e08780ced7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80");
+    background-image: url("../img/services/services23.jpg");
     position: fixed;
 }
 #fixed-background2 {
@@ -109,7 +109,6 @@
     letter-spacing: 1px;
 }
 .service-pack-text p {
-    padding: 20px 0;
     color: var(--main-text-color);
 }
 
@@ -182,7 +181,6 @@
 }
 
 .service-trend-text p {
-    padding: 20px 0;
     color: var(--main-text-color);
 }
 .testimonial-header-text h1 {
@@ -221,7 +219,6 @@
     z-index: 1000;
     border: 7px solid var(--bg-color);
 }
-
 .img2 {
     position: relative;
     left: 60px;
@@ -255,7 +252,6 @@
 .contact-info-text h1 {
      color: var(--brand-color);
      letter-spacing: 2px;
-     padding-top: 20px;
 }
 
 .contact-info-text h2 {
