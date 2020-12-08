@@ -237,17 +237,6 @@ body{
     color: var(--main-text-color);
 }
 
-/*=========Fixed Background=========*/
-
-/* .fixed {
-    background-image: url("../img/hero.jpg");
-    position: fixed;
-}
-
-.fixed-background {
-    padding: 5rem 0;
-} */
-
 /*======Quotes====*/
 .quotes {
     margin-top: 30px;
@@ -380,7 +369,7 @@ body{
     position: relative;
     width: 100%;
     z-index: 1000 !important;
-    /* padding: 5rem 0; */
+    padding: 5rem 0;
   }
   .fixed-wrap {
     clip: rect(0, auto, auto, 0);
