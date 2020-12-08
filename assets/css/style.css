@@ -239,14 +239,14 @@ body{
 
 /*=========Fixed Background=========*/
 
-.fixed {
+/* .fixed {
     background-image: url("../img/hero.jpg");
     position: fixed;
 }
 
 .fixed-background {
     padding: 5rem 0;
-}
+} */
 
 /*======Quotes====*/
 .quotes {
@@ -380,6 +380,7 @@ body{
     position: relative;
     width: 100%;
     z-index: 1000 !important;
+    /* padding: 5rem 0; */
   }
   .fixed-wrap {
     clip: rect(0, auto, auto, 0);
@@ -391,6 +392,8 @@ body{
     z-index: -999 !important;
   }
   .fixed {
+    background-image: url("../img/hero.jpg");
+    position: fixed;
     z-index: -999 !important;
     display: block;
     top: 0;
@@ -413,6 +416,7 @@ body{
     left: 0;
     right: 0;  
   }
+
 
   /*=====Bootstrap Mobile Gutter Fix======*/
 .row,
