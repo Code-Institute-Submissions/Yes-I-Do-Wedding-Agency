@@ -382,7 +382,7 @@ body{
   }
   .fixed {
     background-image: url("../img/hero.jpg");
-    position: fixed;
+    position: scroll;
     z-index: -999 !important;
     display: block;
     top: 0;
