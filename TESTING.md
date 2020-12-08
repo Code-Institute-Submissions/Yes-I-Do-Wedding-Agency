@@ -19,5 +19,5 @@ The developer used W3C CSS Validation Service and W3C Markup Validation Service 
 
 
 
-## Further testing:
-I Asked friends and family to look at the site on their devices and report any issues they find.
+### Further testing:
+I Asked friends and family to look at the site on their devices and report any issues they find. Fixed background
