@@ -18,9 +18,8 @@
 
 #fixed2 {
     background-image: url("../img/services/services23.jpg");
-    position: scroll;
-    z-index: -999 !important;
-    display: fixed;
+    position: fixed;
+    display: block;
     top: 0;
     left: 0;
     width: 100%;
@@ -121,7 +120,6 @@
 #fixed3 {
     background-image: url("../img/services/services03.jpg");
     position: fixed;
-    z-index: -999 !important;
     display: block;
     top: 0;
     left: 0;
@@ -184,7 +182,6 @@
 #fixed4 {
     background-image: url("../img/services/services07.jpg");
     position: fixed;
-    z-index: -999 !important;
     display: block;
     top: 0;
     left: 0;
