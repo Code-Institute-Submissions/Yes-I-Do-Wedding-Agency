@@ -20,7 +20,7 @@
     background-image: url("../img/services/services23.jpg");
     position: scroll;
     z-index: -999 !important;
-    display: block;
+    display: fixed;
     top: 0;
     left: 0;
     width: 100%;
@@ -31,16 +31,6 @@
     transform: translateZ(0);
     will-change: transform;
 }
-
-#fixed2:before {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    top: 0;
-    left: 0;
-    right: 0;  
-}
-
 /*------------------*/
 .post-heading {
     background: white;
@@ -117,6 +107,7 @@
     z-index: 1000 !important;
     padding: 15rem 0;
 }
+
 #fixed-wrap3 {
     clip: rect(0, auto, auto, 0);
     position: absolute;
@@ -126,9 +117,10 @@
     height: 100%;
     z-index: -999 !important;
 }
+
 #fixed3 {
     background-image: url("../img/services/services03.jpg");
-    position: scroll;
+    position: fixed;
     z-index: -999 !important;
     display: block;
     top: 0;
@@ -141,15 +133,6 @@
     transform: translateZ(0);
     will-change: transform;
 }
-
-#fixed3:before {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    top: 0;
-    left: 0;
-    right: 0;  
-}  
 
 .service-pack-header-text h1 {
     font-size: 40px;
@@ -187,7 +170,8 @@
     z-index: 1000 !important;
     padding: 15rem 0;
 }
-  #fixed-wrap4 {
+
+#fixed-wrap4 {
     clip: rect(0, auto, auto, 0);
     position: absolute;
     top: 0;
@@ -195,10 +179,11 @@
     width: 100%;
     height: 100%;
     z-index: -999 !important;
-  }
-  #fixed4 {
+}
+
+#fixed4 {
     background-image: url("../img/services/services07.jpg");
-    position: scroll;
+    position: fixed;
     z-index: -999 !important;
     display: block;
     top: 0;
@@ -210,16 +195,7 @@
     -webkit-transform: translateZ(0);
     transform: translateZ(0);
     will-change: transform;
-  }
-
-  #fixed4:before {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    top: 0;
-    left: 0;
-    right: 0;  
-  }
+}
 
 .quot-container-header p {
     color: var(--navbar-color);
