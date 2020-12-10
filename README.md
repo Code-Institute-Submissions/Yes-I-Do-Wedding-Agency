@@ -120,16 +120,13 @@ Testing information can be found in separate [Testing.md file.](https://github.c
 This project was developed [Visual Studio Code](https://code.visualstudio.com/) using git and pushed to GitHub using the built in function within Visual Studio Code.
 To deploy this project
 
-1. From the menu items select Settings.
+1. From the menu select Settings.
+![Settings button](https://content.codecademy.com/courses/freelance-1/unit-3/git%20setup/githubsettings.png)
 2. Scroll down to the GitHub Pages section.
-3. Under Source click the drop-down menu labelled None and select **Main** branch and click the Save button.
-..* You will see -Your site is published at http://username.io/repository-name/ above.
-4. **Copy the link** and go back to the top of the page and from the menu items select <>Code.
-5. On the right is an About sign and the icon next to it, click on the icon. A pop up window will appear called Edit repository details.
-6. In the Description write a short description of the project.
-7. In the Website **paste the link** that you copied. You can select Topics (optional).
-8. **Click Save Changes Button**
-9. The website is now deployed.
+3. Under Source click the drop-down menu labelled None and select **Main/Master** branch and click the Save button.
+    You will see -Your site is published at http://username.io/repository-name/ above.
+![GitHub pages section](https://s3.us-west-1.wasabisys.com/idbwmedia.com/images/api/githubpagesscreenshot.png)
+4. The website is now deployed.
 
 #### How to run this project locally
 To clone this project into Gitpod you will need:
@@ -141,17 +138,26 @@ To clone this project into Gitpod you will need:
 2. Log into GitHub with your github account.
 3. Navigate to the [Project Repository](https://github.com/szilG/Yes-I-Do-Wedding-Agency)
 3. The "Gitpod" button is in the top right corner of the respository now. 
-![see on the image](https://www.gitpod.io/static/b2f7a9dd0909631d5530b3eb59cc6d31/a370b/browser-extension-lense.png)
+![Gitpod button](https://www.gitpod.io/static/b2f7a9dd0909631d5530b3eb59cc6d31/a370b/browser-extension-lense.png)
 4. Click on the "Gitpod" button that will open a gitpod workspace where you can work locally with the code.
 
 To work on the project within a local system such as VSCode etc:
 1. Navigate to the [Project Repository](https://github.com/szilG/Yes-I-Do-Wedding-Agency)
 2. Click on the Code button (next to the green Gitpod button) and choose to Clone or Download zip file.
-3. If you chosse clone in the HTTPs section copy the URL for the repository.
+![](https://docs.github.com/assets/images/help/repository/code-button.png)
+3. If you choose clone in the HTTPs section copy the URL for the repository.
+![](https://docs.github.com/assets/images/help/repository/https-url-clone-cli.png)
 4. In your local system open the terminal.
-5. Change the current working directory to the location where you want the clone the repository.
-6. Type `git clone`, and then paste the URL you copied in Step 3.
-7. Press Enter.
+5. Change the working directory to the location where you want the clone the repository.
+6. Type `git clone`, and then paste the URL you copied earlier.
+   `$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY`
+7. Press Enter to create your local clone.
+   `$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY`
+    `Cloning into Spoon-Knife...`
+    `remote: Counting objects: 10, done.`
+    `remote: Compressing objects: 100% (8/8), done.`
+    `remove: Total 10 (delta 1), reused 10 (delta 1)`
+    `Unpacking objects: 100% (10/10), done.`
 
 If you have any trouble cloning the repository further information can be found [here](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 
@@ -176,8 +182,12 @@ If you have any trouble cloning the repository further information can be found 
 [ChanCycharm Weddings](https://chanceycharmweddings.com/)
 
 #### Code
-* CSS code for the footer nav-tab and Navbar was originally taken from [Code with Erum](https://www.youtube.com/watch?v=JDvhIJgu5wY) and modified for the project's needs.
+* CSS code for the footer nav-tab and fot the Navbar was originally taken from [Code with Erum](https://www.youtube.com/watch?v=JDvhIJgu5wY) and modified for the project's needs.
 * CSS code for the fixed background was originally taken from [Drew Ryan](https://www.youtube.com/watch?v=TJF4ldO91n4) and modified for the project's needs.
+* Sreenshot images in the README.md file was taken from [gitpod browser-extension](https://www.gitpod.io/static/b2f7a9dd0909631d5530b3eb59cc6d31/a370b/browser-extension-lense.png)
+[github settings button](https://content.codecademy.com/courses/freelance-1/unit-3/git%20setup/githubsettings.png)
+[github pages ]((https://s3.us-west-1.wasabisys.com/idbwmedia.com/images/api/githubpagesscreenshot.png))
+
 
 #### Acknowledgements
 * Many Thanks to my mentor Akshat Garg who gave me a lot of help with the fixed background images, particularly with a  visibility issue on IOS and on Safari browser.
