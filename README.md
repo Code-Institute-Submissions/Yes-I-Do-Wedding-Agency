@@ -150,14 +150,10 @@ To work on the project within a local system such as VSCode etc:
 4. In your local system open the terminal.
 5. Change the working directory to the location where you want the clone the repository.
 6. Type `git clone`, and then paste the URL you copied earlier.
+
    `$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY`
+
 7. Press Enter to create your local clone.
-   `$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY`
-    `Cloning into Spoon-Knife...`
-    `remote: Counting objects: 10, done.`
-    `remote: Compressing objects: 100% (8/8), done.`
-    `remove: Total 10 (delta 1), reused 10 (delta 1)`
-    `Unpacking objects: 100% (10/10), done.`
 
 If you have any trouble cloning the repository further information can be found [here](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 
