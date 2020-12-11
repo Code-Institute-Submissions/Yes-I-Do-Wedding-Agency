@@ -39,9 +39,10 @@ I Asked friends and family to look at the site on their devices and report any i
 * They reported - on Apple mobil devises - iPhone and iPad the pages what contains fixed backgroun couldn't load, only the backgroud image apperd. I found the same issue on Safari browser as well.
 
 As Home page-
-<img src="assets/img/TESTING.md-img/test-home.png" width="100">
+<img src="assets/img/TESTING.md-img/test-home.png" width="500">
+
 As Services page
-<img src="assets/img/TESTING.md-img/test-services.png" width="100">
+<img src="assets/img/TESTING.md-img/test-services.png" width="500">
 
 The fixed attribute position property was changed on home and services style sheet.
 
