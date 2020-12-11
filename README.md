@@ -26,9 +26,9 @@ The business goals of the website are:
 
 **Client stories**
 
- * As a visitor to the website, I want to easily navigate throughout the site and find what I need.
- * As a visitor to the website, I want see this agancy's gallery and images from previous works.
- * As a visitor to the website, I want know more about the agency team members.
+ * As a potential costumer, I want to easily navigate throughout the site and find what I need.
+ * As a potential costumer, I want see this agancy's gallery and images from previous works.
+ * As a potential costumer, I want know more about the agency team members.
  * As a possible costumer, I want to know what former clients thought of their works.
  * As an interested costumer, I want simply navigate to contact page and fill out the contact form.
  * As an interested costumer, I want to follow the agency on social media, so I can keep up with the latest news.
@@ -162,27 +162,27 @@ If you have any trouble cloning the repository further information can be found 
 #### Media
 * The images are taken from
 
-[UNSPLASH.com](https://unsplash.com/)
-[WestCoastWeddingsIreland](http://westcoastweddingsireland.com/plan-wedding-beautiful-ireland-abroad/)
-[ChanCycharm Weddings](https://chanceycharmweddings.com/)
-[AislinnEvents](https://aislinnevents.com/)
-[Pinterest](https://www.pinterest.ie/)
+  [UNSPLASH.com](https://unsplash.com/)
+  [WestCoastWeddingsIreland](http://westcoastweddingsireland.com/plan-wedding-beautiful-ireland-abroad/)
+  [ChanCycharm Weddings](https://chanceycharmweddings.com/)
+  [AislinnEvents](https://aislinnevents.com/)
+  [Pinterest](https://www.pinterest.ie/)
 * All media logo images are taken from [bark.com](https://www.bark.com/)
 
 #### Content
 * The text was copied from
-[House of Hannah](http://houseofhannah.ie/)
-[Olivia Buckley International](https://www.oliviabuckley.com/)
-[Caribbean Wedding](https://wedding-caribbean.com/)
-[My Weddind Planner](http://myweddingplanner.hu/)
-[ChanCycharm Weddings](https://chanceycharmweddings.com/)
+  [House of Hannah](http://houseofhannah.ie/)
+  [Olivia Buckley International](https://www.oliviabuckley.com/)
+  [Caribbean Wedding](https://wedding-caribbean.com/)
+  [My Weddind Planner](http://myweddingplanner.hu/)
+  [ChanCycharm Weddings](https://chanceycharmweddings.com/)
 
 #### Code
-* CSS code for the footer nav-tab and fot the Navbar was originally taken from [Code with Erum](https://www.youtube.com/watch?v=JDvhIJgu5wY) and modified for the project's needs.
+* CSS code for the footer nav-tab and for the Navbar was originally taken from [Code with Erum](https://www.youtube.com/watch?v=JDvhIJgu5wY) and modified for the project's needs.
 * CSS code for the fixed background was originally taken from [Drew Ryan](https://www.youtube.com/watch?v=TJF4ldO91n4) and modified for the project's needs.
 * Sreenshot images in the README.md file was taken from [gitpod browser-extension](https://www.gitpod.io/static/b2f7a9dd0909631d5530b3eb59cc6d31/a370b/browser-extension-lense.png)
 [github settings button](https://content.codecademy.com/courses/freelance-1/unit-3/git%20setup/githubsettings.png)
-[github pages ]((https://s3.us-west-1.wasabisys.com/idbwmedia.com/images/api/githubpagesscreenshot.png))
+[github pages](https://s3.us-west-1.wasabisys.com/idbwmedia.com/images/api/githubpagesscreenshot.png)
 
 
 #### Acknowledgements
