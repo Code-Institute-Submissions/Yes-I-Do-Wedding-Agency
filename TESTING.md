@@ -16,20 +16,27 @@ As a potential customer, I want to easily navigate throughout the site and find 
    * As every page has a top bar on top of the page the customer easily can find the social icons and the agency's phone number and they can contact the agency immediately. 
    * As every page has a company logo image what is always goes back to the Home page.
    * On the home page has call-to-action buttons which take the user to the services page and the Say Hello ("contact") page.
+   <img src="assets/img/TESTING.md-img/userstory-imgs/test-navbar.png" width="400" alt="image">
+   <img src="assets/img/TESTING.md-img/userstory-imgs/test-small-footer.png" width="400" alt="image">
+   <img src="assets/img/TESTING.md-img/userstory-imgs/test-ext-footer.png" width="400" alt="image">
 
 As a potential customer, I want to see this agency's gallery images from previous works.
 
    * As a Home page starts with an image carousel with the agency's works and throughout the page contains pictures about their work and pictures from the possible destination.
    * Clickable Gallery menu is on every page, in the top navigation bar, and in the footer. The customers easily can find and navigate to the Gallery page.
    * Bottom of the Gallery page has a call to action button that takes the user to the Say Hello ("contact") page.
-
+   <img src="assets/img/TESTING.md-img/userstory-imgs/test-img-carousel.png" width="400" alt="image">
+   <img src="assets/img/TESTING.md-img/userstory-imgs/test-gallery-menu-btn.png" width="400" alt="image">
+   <img src="assets/img/TESTING.md-img/userstory-imgs/test-gallery-action-btn.png" width="400" alt="image">
 
 As a potential customer, I want to know more about the agency team members.
 
    * The customers easily can find the About page as in the top navigation bar and in the footer navigation bar.
    * About page contains a photo of the Agency Founder and her professional team. And on large devices an image carousel with their works.
    * Bottom of the About page has a call to action button that takes the user to the Say Hello ("contact") page.
-
+   <img src="assets/img/TESTING.md-img/userstory-imgs/test-about-btn.png" width="400" alt="image">
+   <img src="assets/img/TESTING.md-img/userstory-imgs/test-about-carousel.png" width="400" alt="image">
+   <img src="assets/img/TESTING.md-img/userstory-imgs/test-about-action-btn.png" width="400" alt="image">
 
 As a possible customer, I want to know what former clients thought of their works.
 
@@ -252,7 +259,7 @@ Contact form:
      because the Agency's email address is imaginary.
      - To test this button copy and paste the [Code Institute](https://codeinstitute.net/5-day-coding-challenge/?utm_term=%2Bcode%20%2Binstitute&utm_campaign=a%26c_BR_IRL_Code_Institute&utm_source=adwords&utm_medium=ppc&hsa_net=adwords&hsa_tgt=kwd-319867642491&hsa_ad=326751276603&hsa_acc=8983321581&hsa_grp=56427889178&hsa_mt=b&hsa_cam=1378516521&hsa_kw=%2Bcode%20%2Binstitute&hsa_ver=3&hsa_src=g&gclid=EAIaIQobChMIiJjgxOrD7QIVz8LtCh3OQQgLEAAYASAAEgLd4vD_BwE&gclsrc=aw.ds) email address that we used in the **Love Running mini-project** to the contact form action method.
      The result was successful 
-    <img src="assets/img/TESTING.md-img/test-submitbtn-img.png">
+    <img src="assets/img/TESTING.md-img/test-submitbtn-img.png" width="500" alt="image">
    
 Footer:
 
@@ -271,10 +278,10 @@ I asked friends and family to look at the site on their devices and report any i
 * They reported - on Apple mobile devices - iPhone and iPad the pages that contain fixed image background couldn't load, only the fixed background image appeared. I found the same issue on the Safari browser as well.
 
 As Home page-
-<img src="assets/img/TESTING.md-img/test-home.png" width="500">
+<img src="assets/img/TESTING.md-img/test-home.png" width="500" alt="image">
 
 As Services page
-<img src="assets/img/TESTING.md-img/test-services.png" width="500">
+<img src="assets/img/TESTING.md-img/test-services.png" width="500" alt="image">
 
 The fixed attribute position property was deleted on the home and services style sheet.
 
