@@ -36,7 +36,7 @@ The business goals of the website are:
 
 **Wireframe mockups:** 
 
-Wireframe information can be found in the separate Wireframe pdf file.
+Wireframe information can be found in the separate [Wireframe pdf file.](https://github.com/szilG/Yes-I-Do-Wedding-Agency/tree/main/wireframes)
 
 ## Features
 Each page has a responsive top bar with a Company Logo (in the middle) a phone number for the Agency (top right) and social media icons (top left).
