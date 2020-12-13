@@ -29,6 +29,7 @@ As a potential customer, I want to see this agency's gallery images from previou
    <img src="assets/img/TESTING.md-img/userstory-imgs/test-img-carousel.png" width="400" alt="image">
    <img src="assets/img/TESTING.md-img/userstory-imgs/test-gallery-menu-btn.png" width="400" alt="image">
    <img src="assets/img/TESTING.md-img/userstory-imgs/test-gallery-action-btn.png" width="400" alt="image">
+
 ---
 
 As a potential customer, I want to know more about the agency team members.
@@ -38,7 +39,8 @@ As a potential customer, I want to know more about the agency team members.
    * Bottom of the About page has a call to action button that takes the user to the Say Hello ("contact") page.
    <img src="assets/img/TESTING.md-img/userstory-imgs/test-about-btn.png" width="400" alt="image">
    <img src="assets/img/TESTING.md-img/userstory-imgs/test-about-carousel.png" width="400" alt="image">
-   <img src="assets/img/TESTING.md-img/userstory-imgs/test-about-action-btn.png" width="400" alt="image">
+   <img src="assets/img/TESTING.md-img/userstory-imgs/test-about-action-btn1.png" width="400" alt="image">
+
 ---
 
 As a possible customer, I want to know what former clients thought of their works.
@@ -49,6 +51,7 @@ As a possible customer, I want to know what former clients thought of their work
    <img src="assets/img/TESTING.md-img/userstory-imgs/test-kindwords-menu.png" width="400" alt="image">
    <img src="assets/img/TESTING.md-img/userstory-imgs/test-kindwords-text.png" width="400" alt="image">
    <img src="assets/img/TESTING.md-img/userstory-imgs/test-kindwords-action-btn.png" width="400" alt="image">
+
 ---
 
 As an interested customer, I want to know what services they can offer.
@@ -63,6 +66,7 @@ As an interested customer, I want to know what services they can offer.
    * Images are throughout the page for the better visual look.  
    <img src="assets/img/TESTING.md-img/userstory-imgs/test-services-carousel.png" width="400" alt="image">
    <img src="assets/img/TESTING.md-img/userstory-imgs/test-services.png" width="400" alt="image">
+
 ---
 
 As an interested customer, I want simply navigate to the contact page and fill out the contact form.
@@ -71,6 +75,7 @@ As an interested customer, I want simply navigate to the contact page and fill o
    * Every page contains call-to-action buttons that lead the interested customer to the Say Hello ("contact") page.
    * The customers easily can find the the contact form.
    <img src="assets/img/TESTING.md-img/userstory-imgs/test-contactform.png" width="400" alt="image">
+
 --- 
 
 As an interested customer, I want to follow the agency on social media, so I can hear about their events and news.
