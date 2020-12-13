@@ -164,20 +164,23 @@ If you have any trouble cloning the repository further information can be found 
 #### Media
 * The images are taken from
 
- -[UNSPLASH.com](https://unsplash.com/)
- -[WestCoastWeddingsIreland](http://westcoastweddingsireland.com/plan-wedding-beautiful-ireland-abroad/)
- -[ChanCycharm Weddings](https://chanceycharmweddings.com/)
- -[AislinnEvents](https://aislinnevents.com/)
- -[Pinterest](https://www.pinterest.ie/)
+  - [UNSPLASH.com](https://unsplash.com/)
+  - [WestCoastWeddingsIreland](http://westcoastweddingsireland.com/plan-wedding-beautiful-ireland-abroad/)
+  - [ChanCycharm Weddings](https://chanceycharmweddings.com/)
+  - [AislinnEvents](https://aislinnevents.com/)
+  - [Pinterest](https://www.pinterest.ie/)
+  - [Sublime Luxury Wedding](https://www.sublimeluxuryweddings.com/)
 * All media logo images are taken from [bark.com](https://www.bark.com/)
 
 #### Content
 * The text was copied from
- -[House of Hannah](http://houseofhannah.ie/)
- -[Olivia Buckley International](https://www.oliviabuckley.com/)
- -[Caribbean Wedding](https://wedding-caribbean.com/)
- -[My Weddind Planner](http://myweddingplanner.hu/)
- -[ChanCycharm Weddings](https://chanceycharmweddings.com/)
+  - [House of Hannah](http://houseofhannah.ie/)
+  - [Olivia Buckley International](https://www.oliviabuckley.com/)
+  - [Caribbean Wedding](https://wedding-caribbean.com/)
+  - [My Weddind Planner](http://myweddingplanner.hu/)
+  - [ ChanCycharm Weddings](https://chanceycharmweddings.com/)
+  - [Sublime Luxury Wedding](https://www.sublimeluxuryweddings.com/)
+  - [Romantically Yours](https://romantically-yours.ie/)
 
 #### Code
 * CSS code for the footer nav-tab and the Navbar was originally taken from [Code with Erum](https://www.youtube.com/watch?v=JDvhIJgu5wY) and modified for the project's needs.
