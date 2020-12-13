@@ -1,4 +1,6 @@
 /*-- Fixed Background Image Header--*/
+/*==Fixed bg CSS originally came from Drew Ryan https://www.youtube.com/watch?v=TJF4ldO91n4 and modified to being visible on
+IOS and Safari many thanks for it to  my mentor Akshat Garg==*/ 
 #fixed-background2 {
     position: relative;
     width: 100%;
@@ -100,6 +102,8 @@
 }
 
 /*-- Fixed Background Image 2nd img--*/
+/*==Fixed bg CSS originally came from Drew Ryan https://www.youtube.com/watch?v=TJF4ldO91n4 and modified to being visible on
+IOS and Safari many thanks for it to  my mentor Akshat Garg==*/ 
 #fixed-background3 {
     position: relative;
     width: 100%;
@@ -162,6 +166,8 @@
 }
   
 /*-- Fixed Background Image 3nd img--*/
+/*==Fixed bg CSS originally came from Drew Ryan https://www.youtube.com/watch?v=TJF4ldO91n4 and modified to being visible on
+IOS and Safari many thanks for it to  my mentor Akshat Garg==*/ 
 #fixed-background4 {
     position: relative;
     width: 100%;
@@ -339,12 +345,4 @@
 .contact-info-text p {
      color: var(--main-text-color);
      padding: 10px 0;
-}
-  
-/*=====Bootstrap Mobile Gutter Fix======*/
-.row,
-.container-fluid {
-    width: 100%;
-    margin-left: 0px !important;
-    margin-right: 0px !important;
 }
