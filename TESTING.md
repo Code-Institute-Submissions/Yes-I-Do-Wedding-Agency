@@ -18,6 +18,7 @@ As a potential customer, I want to easily navigate throughout the site and find 
    * On the home page has call-to-action buttons which take the user to the services page and the Say Hello ("contact") page.
    <img src="assets/img/TESTING.md-img/userstory-imgs/test-navbar.png" width="400" alt="image"> 
    <img src="assets/img/TESTING.md-img/userstory-imgs/test-small-footer.png" width="400" alt="image">
+   <img src="assets/img/TESTING.md-img/userstory-imgs/test-home-action-btn.png" width="400" alt="image">
    
 ---
 
@@ -83,6 +84,8 @@ As an interested customer, I want to follow the agency on social media, so I can
    * The social media icons easily can find at the top of every page.
    <img src="assets/img/TESTING.md-img/userstory-imgs/test-social.png" width="400" alt="image">
 
+---
+
 ### Testing functionality of every page
 
 **Home page:**
@@ -131,7 +134,8 @@ Call to action buttons:
    * Hover over each button and check color change.
    * Click on each button to check is leads to a correct page.
 
- 
+---
+
 **About page:**
 
 Top bar:
@@ -160,6 +164,8 @@ Footer:
 Call to action buttons:
 
    * Repeat validation steps done for call-to-action-buttons on the Home page
+
+---
 
 **Services page**
 
@@ -195,6 +201,8 @@ Call to action buttons:
 
    * Repeat validation steps done for call-to-action-buttons on the Home page
 
+---
+
 **Kind Words page**
 
 Top bar:
@@ -222,6 +230,8 @@ Call to action buttons:
 
    * Repeat validation steps done for call-to-action-buttons on the Home page
 
+---
+
 **Gallery page**
 
 Top bar:
@@ -247,6 +257,8 @@ Footer:
 Call to action buttons:
 
    * Repeat validation steps done for call-to-action-buttons on the Home page
+
+---
 
 **Say Hello page**
 
@@ -292,6 +304,7 @@ Call to action buttons:
 
    * Repeat validation steps done for call-to-action-buttons on the Home page
 
+---
 
 ### Further testing:
 I asked friends and family to look at the site on their devices and report any issues they find. 
@@ -305,8 +318,8 @@ As Services page
 
 The fixed attribute position property was deleted on the home and services style sheet.
 
-<img src="assets/img/TESTING.md-img/test-home-fixbg.png" width="500" alt="image">
-<img src="assets/img/TESTING.md-img/test-srvices-fixbg.png" width="500" alt="image">
+<img src="assets/img/TESTING.md-img/test-home-fix-bg.png" width="500" alt="image">
+<img src="assets/img/TESTING.md-img/test-srvices-fix-bg.png" width="500" alt="image">
 
 
 * On the Kind Words page first testimonial text was changed after they reported the text had a grammatical error.  
