@@ -58,7 +58,7 @@ As a possible customer, I want to know what former clients thought of their work
 As an interested customer, I want to know what services they can offer.
 
    * On the Home page has a clear call to action button under the What We Do section which takes the user to the Services page.
-   <img src="assets/img/TESTING.md-img/userstory-imgs/test-home-btn.png" width="400" alt="image">
+      <img src="assets/img/TESTING.md-img/userstory-imgs/test-home-btn.png" width="400" alt="image">
    * The customers easily can find the Services menu in the top navigation bar and in the footer navigation bar as well.
    * Bottom of the Services page has a call to action button that takes the user to the Say Hello ("contact") page.
    * The Services page contains pictures from the Agency's works and their services.
@@ -317,9 +317,6 @@ As Services page
 <img src="assets/img/TESTING.md-img/test-services.png" width="500" alt="image">
 
 The fixed attribute position property was deleted on the home and services style sheet.
-
-<img src="assets/img/TESTING.md-img/test-home-fix-bg.png" width="500" alt="image">
-<img src="assets/img/TESTING.md-img/test-srvices-fix-bg.png" width="500" alt="image">
 
 
 * On the Kind Words page first testimonial text was changed after they reported the text had a grammatical error.  
