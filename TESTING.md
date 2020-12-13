@@ -16,8 +16,9 @@ As a potential customer, I want to easily navigate throughout the site and find 
    * As every page has a top bar on top of the page the customer easily can find the social icons and the agency's phone number and they can contact the agency immediately. 
    * As every page has a company logo image what is always goes back to the Home page.
    * On the home page has call-to-action buttons which take the user to the services page and the Say Hello ("contact") page.
-   <img src="assets/img/TESTING.md-img/userstory-imgs/test-navbar.png" width="400" alt="image"> <img src="assets/img/TESTING.md-img/userstory-imgs/test-small-footer.png" width="400" alt="image">
-   <img src="assets/img/TESTING.md-img/userstory-imgs/test-ext-footer.png" width="400" alt="image">
+   <img src="assets/img/TESTING.md-img/userstory-imgs/test-navbar.png" width="400" alt="image"> 
+   <img src="assets/img/TESTING.md-img/userstory-imgs/test-small-footer.png" width="400" alt="image">
+   
 ---
 
 As a potential customer, I want to see this agency's gallery images from previous works.
@@ -273,8 +274,7 @@ Contact form:
      because the Agency's email address is imaginary.
      - To test this button copy and paste the [Code Institute](https://codeinstitute.net/5-day-coding-challenge/?utm_term=%2Bcode%20%2Binstitute&utm_campaign=a%26c_BR_IRL_Code_Institute&utm_source=adwords&utm_medium=ppc&hsa_net=adwords&hsa_tgt=kwd-319867642491&hsa_ad=326751276603&hsa_acc=8983321581&hsa_grp=56427889178&hsa_mt=b&hsa_cam=1378516521&hsa_kw=%2Bcode%20%2Binstitute&hsa_ver=3&hsa_src=g&gclid=EAIaIQobChMIiJjgxOrD7QIVz8LtCh3OQQgLEAAYASAAEgLd4vD_BwE&gclsrc=aw.ds) email address that we used in the **Love Running mini-project** to the contact form action method.
      The result was successful.
-
-    <img src="assets/img/TESTING.md-img/test-submitbtn-img.png" width="500" alt="image">
+   <img src="assets/img/TESTING.md-img/test-submitbtn-img.png" width="500" alt="image">
    
 Footer:
 
