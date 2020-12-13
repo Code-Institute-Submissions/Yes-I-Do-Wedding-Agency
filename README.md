@@ -83,7 +83,8 @@ The contact page has a hero image on the top, a contact form with a required nam
 
 * Every page has **Header Logo** - Clicking the logo returns users to the home page.
 * Every page has **Top Bar** - Social Icons on the top left allow users to access the social platforms and the phone number on the top right allows users to call the agency directly.
-* On the bottom of all pages - Exists a mini image gallery and Follow us link which takes the user to Instagram.
+* On the bottom of all pages - There is a Follow us link which takes the user to Instagram.
+* On large devices at the bottom of the page, there is a mini image gallery with the agency's works.
 * Every page has a **Footer** - On mobile and tablet devices the footer is minimalized for the navigation links and the agency's information. On large devices, an extended navigation bar exists that contains more information about the agency and its services.
 * Every page has **Footer Copyright Info** - Business copyright.
 * Every page has a **Call to Action Button** -  Allows users to contact the agency.
