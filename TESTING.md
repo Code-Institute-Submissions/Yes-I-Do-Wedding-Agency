@@ -318,7 +318,7 @@ As Services page
 
 The fixed attribute position property was deleted on the home and services style sheet.
 
-<img src="assets/img/TESTING.md-img/usersory-imgs/test-home-fixbg.png" width="500" alt="image">
+<img src="assets/img/TESTING.md-img/userstory-imgs/test-home-fixbg.png" width="500" alt="image">
 <img src="assets/img/TESTING.md-img/userstory-imgs/test-services-fixbg.png" width="500" alt="image">
 
 * On the Kind Words page first testimonial text was changed after they reported the text had a grammatical error.  
