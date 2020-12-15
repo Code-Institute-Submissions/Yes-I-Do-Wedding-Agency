@@ -308,7 +308,7 @@ Call to action buttons:
 
 ### Further testing:
 I asked friends and family to look at the site on their devices and report any issues they find. 
-* They reported - on Apple mobile devices - iPhone and iPad the pages that contain fixed image background couldn't load, only the fixed background image appeared. I found the same issue on the Safari browser as well.
+1. They reported - on Apple mobile devices - iPhone and iPad the pages that contain fixed image background couldn't load, only the fixed background image appeared. I found the same issue on the Safari browser as well.
 
 As Home page
 
@@ -323,4 +323,16 @@ I deleted the fixed attribute position property on the home and services style s
    <img src="assets/img/TESTING.md-img/userstory-imgs/test-home-fixbg.png" width="500" alt="image">
    <img src="assets/img/TESTING.md-img/userstory-imgs/test-services-fixbg.png" width="500" alt="image">
 
-* On the Kind Words page I changed the first testimonial text after they reported the text had a grammatical error.  
+2. On the Kind Words page I changed the first testimonial text after they reported the text had a grammatical error. 
+
+3. In final testing some favicon issue occured.
+
+   <img src="assets/img/TESTING.md-img/test-favicon1.png" width="500" alt="image">
+
+ - To solve this problem I generated a favicon from jpg image [here](https://image.online-convert.com/convert-to-ico)
+  after I copied that into the root directory.
+ - I put the link tag into the head element. I found explanation from it [here](https://stackoverflow.com/questions/9943771/adding-a-favicon-to-a-static-html-page)
+
+  `<link rel="icon" type="image/x-icon" href="favicon.ico">` 
+
+   <img src="assets/img/TESTING.md-img/test-favicon2.png" width="500" alt="image">
