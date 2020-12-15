@@ -8,6 +8,10 @@
 
 The developer used W3C CSS Validation Service and W3C Markup Validation Service to test the code.
 
+* [TinyPNG](https://tinypng.com/)
+
+The developer used Tinypng to resize the images of the website.
+
 ### Client stories testing
 
 As a potential customer, I want to easily navigate throughout the site and find what I need.
@@ -336,3 +340,5 @@ I deleted the fixed attribute position property on the home and services style s
   `<link rel="icon" type="image/x-icon" href="favicon.ico">` 
 
    <img src="assets/img/TESTING.md-img/test-favicon2.png" width="500" alt="image">
+
+   The image used for favicon can be find [here](https://www.pinterest.com/pin/791929915708765787/)
